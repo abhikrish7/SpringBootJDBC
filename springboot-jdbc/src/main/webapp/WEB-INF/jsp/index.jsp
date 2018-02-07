@@ -5,7 +5,7 @@
 <body>
 
 
-<h2>Welcome Admin</h2>
+<h2>Welcome Admin, Start Registering student details</h2>
 
 <jsp:include page="menu.jsp"></jsp:include>
 
